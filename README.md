@@ -1,5 +1,6 @@
 # daftar-biodata-siswa
-== latiahn kelas dicoding
+latiahn kelas dicoding
+==
 Daftar biodata siswa Dicoding Academy
 --
 *Berikut adalah biodata siswa terdiri yang dari 3 angkatan.*
